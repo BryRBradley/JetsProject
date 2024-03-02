@@ -65,7 +65,7 @@ public class Airfield {
 	public void dogfight() {
 		for (Jet jet : squadron) {
 			if (jet instanceof Fighter) {
-				((Fighter) jet).dogfight(true);
+				((Fighter) jet).dogfight();
 
 			}
 		}
@@ -175,6 +175,7 @@ public class Airfield {
 	public void fly() {
 		for (Jet jet : squadron) {
 			jet.fly();
+
 		}
 
 	}

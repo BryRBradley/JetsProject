@@ -20,10 +20,10 @@ public abstract class Jet {
 		if (range == 0 || speed == 0) {
 			System.out.println("This aircraft is not operational, it's down for maintenance.");
 		} else {
-			System.out.println("Flight time available: " + flightTime);
-			System.out.println(model + speed + range + price);
-		}
+			System.out.println(" " + getModel());
+			System.out.println(" Flight time available: " + flightTime);
 
+		}
 	}
 
 	public String getModel() {
