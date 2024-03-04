@@ -49,12 +49,12 @@ stuck on this project without these hours. Instead I am surprised at how much I 
 
 
 ## Coding Time and Testing
-01 Mar 24  1500-2000 // V1 of JetsApp, methods, files initial builds were completed.
-02 Mar 24  1000-1530 // V2 pushed corrected a bunch of logic problems and wrote in test lines
++ 01 Mar 24  1500-2000 // V1 of JetsApp, methods, files initial builds were completed.
++ 02 Mar 24  1000-1530 // V2 pushed corrected a bunch of logic problems and wrote in test lines
 to break apart my code for debugging. Tested and found a few bugs.
-02 Mar 24 1900-2000 // V3 bugs corrected, refactored and all Tests passed. Had a classmate review and stress test
++ 02 Mar 24 1900-2000 // V3 bugs corrected, refactored and all Tests passed. Had a classmate review and stress test
 he pointed out some small things "Add a catch here etc..."
-03 Mar 24 1700-1900 // V4 README.md finished and final refactoring, applications meets all requirments. 
++ 03 Mar 24 1700-1900 // V4 README.md finished and final refactoring, applications meets all requirments. 
 
 
 ### Links 
