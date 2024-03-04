@@ -1,6 +1,6 @@
 # JetsProject "Welcome to the JetApp"
 
-##Description
+## Description
 This java application read in a txt file of Jets. It then tracks the Jets information on an airfield by Type, Model, Speed, Range and Price. It utilizes interfaces to request a User to make selections from a menu to perform functions
 within the application. Below is the list of functions you can perform on the JetApp.
 
